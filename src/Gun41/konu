@@ -1,0 +1,8 @@
+aşağıdakiler birer zaman tutuyor
+LocalDate -> tarih
+LocalTime -> saat(saat,dak,san,ns)
+LocalDateTime -> tarih + saat
+DateTimeFormatter -> format
+
+int a=5;  bir a int cinsinden bir rakam tutuyor
+yukarıdaki değişkenler kendi türünden bir zaman tutuyor
